@@ -1,2 +1,6 @@
 1. install python
 2. sudo pip install Flask
+
+
+useful document:
+	http://docs.jinkan.org/docs/flask/quickstart.html#a-minimal-application
