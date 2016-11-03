@@ -1,0 +1,10 @@
+面试要点C#：
+1、IIS优化
+2、Jquery插件
+3、设计模式
+4、数据结构
+5、sql 左连接和左外连接
+6、排序算法 快排
+7、.net framework各个版本区别和改进  https://msdn.microsoft.com/zh-cn/library/ms171868(v=vs.100).aspx
+8、WCF、MVVM
+9、.net架构   CLR 基础类库 WEB/WEBFORM
